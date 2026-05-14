@@ -1,0 +1,6 @@
+framework module Pods_155ShelfMate {
+  umbrella header "Pods-155ShelfMate-umbrella.h"
+
+  export *
+  module * { export * }
+}
